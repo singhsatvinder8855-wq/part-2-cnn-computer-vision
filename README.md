@@ -1,6 +1,6 @@
-## part-2-cnn-computer-vision
+# part-2-cnn-computer-vision
 
-# Part 2: Computer Vision Problem Formulation and CNN Prototype
+## Part 2: Computer Vision Problem Formulation and CNN Prototype
 
 ## Task 1: Problem Identification
 
